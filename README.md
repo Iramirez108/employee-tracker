@@ -30,5 +30,8 @@ undefined
    The terminal
 
 ## Questions
-Please reach out to me with questions or comments. My GitHub user name is (https://github.com/iramirez108. My email address is ivan.ramirez10208@gmail.com.
+Please reach out to me with questions or comments. My GitHub user name is (https://github.com/iramirez108. My email address is ivan.ramire
+
+[Employee video.webm](https://user-images.githubusercontent.com/105662984/188253589-4a6301b4-3687-40fb-a083-db5fa32d5320.webm)
+z10208@gmail.com.
         
